@@ -1,5 +1,3 @@
-Project page: http://www.cs.tut.fi/~rinn/Projects.html
-
 Compile and run using QtCreator (open: project.pro)
 
 This base code shows how to use the project library (picture modifications)
