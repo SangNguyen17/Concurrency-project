@@ -1,3 +1,6 @@
+## This is a project from Tampere University. Our group implements main.cpp. 
+## Contributors: Sang Nguyen, Hai Luong, Ankur Dahama.
+
 Compile and run using QtCreator (open: project.pro)
 
 This base code shows how to use the project library (picture modifications)
